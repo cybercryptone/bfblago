@@ -1,0 +1,20 @@
+{
+  "foundationName": "БФ Благо",
+  "description": "Благотворительный фонд помощи детям, нуждающимся в дорогостоящем лечении",
+  "email": "info@bfblago.ru",
+  "phone": "+7 (495) 123-45-67",
+  "address": "г. Москва, ул. Тверская, д. 1, оф. 100",
+  "logoUrl": "/logo.svg",
+  "social": {
+    "vk": "https://vk.com/bfblago",
+    "telegram": "https://t.me/bfblago",
+    "instagram": "https://instagram.com/bfblago",
+    "youtube": "https://youtube.com/bfblago"
+  },
+  "seo": {
+    "title": "БФ Благо — Помогаем детям жить",
+    "description": "Благотворительный фонд «БФ Благо» помогает детям получить необходимое лечение. Присоединяйтесь к нашей миссии.",
+    "keywords": "благотворительный фонд, помощь детям, пожертвование, лечение детей",
+    "ogImage": "/og-image.jpg"
+  }
+}

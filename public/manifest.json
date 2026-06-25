@@ -1,0 +1,12 @@
+{
+  "name": "БФ Благо",
+  "short_name": "БФ Благо",
+  "description": "Благотворительный фонд помощи детям",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#0c2461",
+  "icons": [
+    { "src": "/favicon.ico", "sizes": "48x48", "type": "image/x-icon" }
+  ]
+}

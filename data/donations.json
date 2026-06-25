@@ -1,0 +1,155 @@
+[
+  {
+    "id": "don-1",
+    "campaignId": "campaign-1",
+    "amount": 5000,
+    "email": "donor1@mail.ru",
+    "status": "succeeded",
+    "paymentId": "pay_1",
+    "createdAt": "2024-03-01T10:00:00.000Z"
+  },
+  {
+    "id": "don-2",
+    "campaignId": "campaign-2",
+    "amount": 15000,
+    "email": "donor2@yandex.ru",
+    "status": "succeeded",
+    "paymentId": "pay_2",
+    "createdAt": "2024-03-02T11:30:00.000Z"
+  },
+  {
+    "id": "don-3",
+    "campaignId": "campaign-1",
+    "amount": 50000,
+    "email": "donor3@gmail.com",
+    "status": "succeeded",
+    "paymentId": "pay_3",
+    "createdAt": "2024-03-03T09:15:00.000Z"
+  },
+  {
+    "id": "don-4",
+    "campaignId": "campaign-3",
+    "amount": 2500,
+    "email": "donor4@mail.ru",
+    "status": "succeeded",
+    "paymentId": "pay_4",
+    "createdAt": "2024-03-04T14:45:00.000Z"
+  },
+  {
+    "id": "don-5",
+    "campaignId": "campaign-4",
+    "amount": 10000,
+    "email": "donor5@rambler.ru",
+    "status": "succeeded",
+    "paymentId": "pay_5",
+    "createdAt": "2024-03-05T16:00:00.000Z"
+  },
+  {
+    "id": "don-6",
+    "campaignId": "campaign-2",
+    "amount": 3000,
+    "email": "donor6@yandex.ru",
+    "status": "succeeded",
+    "paymentId": "pay_6",
+    "createdAt": "2024-03-06T08:20:00.000Z"
+  },
+  {
+    "id": "don-7",
+    "campaignId": "campaign-5",
+    "amount": 25000,
+    "email": "donor7@mail.ru",
+    "status": "succeeded",
+    "paymentId": "pay_7",
+    "createdAt": "2024-03-07T13:10:00.000Z"
+  },
+  {
+    "id": "don-8",
+    "campaignId": "campaign-6",
+    "amount": 7500,
+    "email": "donor8@gmail.com",
+    "status": "succeeded",
+    "paymentId": "pay_8",
+    "createdAt": "2024-03-08T10:50:00.000Z"
+  },
+  {
+    "id": "don-9",
+    "campaignId": "campaign-3",
+    "amount": 1000,
+    "email": "donor9@mail.ru",
+    "status": "succeeded",
+    "paymentId": "pay_9",
+    "createdAt": "2024-03-09T17:30:00.000Z"
+  },
+  {
+    "id": "don-10",
+    "campaignId": "campaign-7",
+    "amount": 30000,
+    "email": "donor10@yandex.ru",
+    "status": "succeeded",
+    "paymentId": "pay_10",
+    "createdAt": "2024-03-10T12:00:00.000Z"
+  },
+  {
+    "id": "don-11",
+    "campaignId": "campaign-1",
+    "amount": 8000,
+    "email": "donor11@inbox.ru",
+    "status": "succeeded",
+    "paymentId": "pay_11",
+    "createdAt": "2024-03-11T09:45:00.000Z"
+  },
+  {
+    "id": "don-12",
+    "campaignId": "campaign-8",
+    "amount": 500,
+    "email": "donor12@mail.ru",
+    "status": "succeeded",
+    "paymentId": "pay_12",
+    "createdAt": "2024-03-12T15:20:00.000Z"
+  },
+  {
+    "id": "don-13",
+    "campaignId": "campaign-4",
+    "amount": 20000,
+    "email": "donor1@mail.ru",
+    "status": "succeeded",
+    "paymentId": "pay_13",
+    "createdAt": "2024-03-13T11:00:00.000Z"
+  },
+  {
+    "id": "don-14",
+    "campaignId": "campaign-9",
+    "amount": 45000,
+    "email": "donor13@bk.ru",
+    "status": "succeeded",
+    "paymentId": "pay_14",
+    "createdAt": "2024-03-14T14:15:00.000Z"
+  },
+  {
+    "id": "don-15",
+    "campaignId": "campaign-5",
+    "amount": 12000,
+    "email": "donor14@yandex.ru",
+    "status": "succeeded",
+    "paymentId": "pay_15",
+    "createdAt": "2024-03-15T10:30:00.000Z"
+  },
+  {
+    "id": "1782382120063-47si8cm",
+    "campaignId": "campaign-1",
+    "amount": 500,
+    "email": "test@test.ru",
+    "status": "succeeded",
+    "paymentId": "demo-1782382120063-kevtozz",
+    "createdAt": "2026-06-25T10:08:40.063Z"
+  },
+  {
+    "id": "1782386060864-ucby18l",
+    "campaignId": "campaign-2",
+    "amount": 5000,
+    "email": "sdfd@mail.ru",
+    "status": "succeeded",
+    "paymentId": "demo-1782386060864-he573bh",
+    "createdAt": "2026-06-25T11:14:20.864Z"
+  }
+]
