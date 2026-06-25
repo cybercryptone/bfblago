@@ -1,9 +1,12 @@
 services:
   - type: web
     name: bfblago
-    runtime: node
-    buildCommand: npm install && npm run build
+    env: node
+    plan: free
+    region: frankfurt
+    buildCommand: npm ci && npm run build
     startCommand: npm start
+    nodeVersion: "20.18.0"
     envVars:
       - key: JWT_SECRET
         generateValue: true
