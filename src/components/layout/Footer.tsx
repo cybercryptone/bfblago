@@ -16,28 +16,9 @@ export default function Footer() {
               </div>
               <span className="text-xl font-bold">БФ Благо</span>
             </div>
-            <p className="text-slate-300 text-sm leading-relaxed mb-6">
-              Помогаем детям получить необходимое лечение и дарим им шанс на полноценную жизнь.
+            <p className="text-slate-300 text-sm leading-relaxed">
+              Помогаем нуждающимся получить необходимое лечение и даём им шанс на полноценную жизнь.
             </p>
-            {/* Social */}
-            <div className="flex gap-3">
-              {[
-                { label: 'ВК', href: 'https://vk.com/bfblago' },
-                { label: 'TG', href: 'https://t.me/bfblago' },
-                { label: 'YT', href: 'https://youtube.com/bfblago' },
-              ].map(s => (
-                <a
-                  key={s.label}
-                  href={s.href}
-                  target="_blank"
-                  rel="noopener noreferrer"
-                  className="w-9 h-9 bg-white/10 hover:bg-[#22c55e] rounded-lg flex items-center justify-center text-xs font-bold transition-colors"
-                  aria-label={s.label}
-                >
-                  {s.label}
-                </a>
-              ))}
-            </div>
           </div>
 
           {/* Navigation */}
@@ -81,7 +62,7 @@ export default function Footer() {
               <li className="flex items-start gap-2.5">
                 <MapPin className="w-4 h-4 text-[#22c55e] mt-0.5 shrink-0" />
                 <span className="text-slate-300 text-sm">
-                  г. Москва, ул. Тверская, д. 1, оф. 100
+                  г. Москва, ул. Первомайская, д. 19
                 </span>
               </li>
             </ul>
@@ -91,7 +72,7 @@ export default function Footer() {
           <div>
             <h3 className="font-semibold text-white mb-4">Помочь фонду</h3>
             <p className="text-slate-300 text-sm leading-relaxed mb-4">
-              Каждое пожертвование меняет судьбу ребёнка. Присоединяйтесь к нашей миссии.
+              Каждое пожертвование меняет жизнь нуждающегося. Присоединяйтесь к нашей миссии.
             </p>
             <Link
               href="#campaigns"
@@ -100,6 +81,17 @@ export default function Footer() {
               Сделать пожертвование
             </Link>
           </div>
+        </div>
+      </div>
+
+      {/* Legal info */}
+      <div className="border-t border-white/10">
+        <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-6">
+          <p className="text-slate-400 text-xs leading-relaxed">
+            Благотворительный фонд использует сайт для сбора не облагаемых налогом пожертвований.
+            Целевое финансирование (010), (140), (171).
+            ИНН&nbsp;9719088434 · КПП&nbsp;771901001
+          </p>
         </div>
       </div>
 

@@ -14,7 +14,7 @@ export default function PaymentSuccessPage() {
           </div>
           <h1 className="text-3xl font-bold text-[#0c2461] mb-4">Спасибо за пожертвование!</h1>
           <p className="text-slate-500 text-lg mb-8 leading-relaxed">
-            Ваш вклад поможет детям получить необходимое лечение. Вы делаете этот мир лучше.
+            Ваш вклад поможет нуждающимся получить необходимое лечение. Вы делаете этот мир лучше.
           </p>
           <div className="flex flex-col sm:flex-row gap-4 justify-center">
             <Link

@@ -16,7 +16,7 @@ export default function Hero() {
         <div className="text-white animate-fade-in-up">
           <div className="inline-flex items-center gap-2 bg-[#22c55e]/20 border border-[#22c55e]/30 rounded-full px-4 py-2 text-[#4ade80] text-sm font-medium mb-8">
             <span className="w-2 h-2 bg-[#22c55e] rounded-full animate-pulse" />
-            Благотворительный фонд помощи детям
+            Благотворительный фонд помощи людям
           </div>
 
           <h1 className="text-4xl sm:text-5xl lg:text-6xl font-bold leading-tight mb-6">
@@ -26,7 +26,7 @@ export default function Hero() {
           </h1>
 
           <p className="text-slate-300 text-lg leading-relaxed mb-10 max-w-lg">
-            Каждый день мы помогаем детям со всей России получить необходимое лечение.
+            Каждый день мы помогаем нуждающимся по всей России получить необходимое лечение.
             Вместе мы можем изменить жизни тех, кто в этом нуждается.
           </p>
 
@@ -57,7 +57,7 @@ export default function Hero() {
             </div>
             <p className="text-slate-300 text-sm">
               <span className="text-white font-semibold">1 200+</span> благотворителей{' '}
-              уже помогли детям
+              уже помогли нуждающимся
             </p>
           </div>
         </div>
@@ -70,7 +70,7 @@ export default function Hero() {
             <div className="relative rounded-3xl overflow-hidden shadow-2xl aspect-[4/5]">
               <Image
                 src="https://picsum.photos/seed/charity-hero/600/750"
-                alt="Счастливый ребёнок"
+                alt="Помощь нуждающимся"
                 fill
                 className="object-cover"
                 priority
