@@ -101,6 +101,9 @@ export default function Footer() {
           <div className="flex flex-col sm:flex-row items-center justify-between gap-4 text-sm text-slate-400">
             <p>© {currentYear} БФ Благо. Все права защищены.</p>
             <div className="flex gap-6">
+              <a href="/privacy-policy.pdf" target="_blank" rel="noopener noreferrer" className="hover:text-white transition-colors">
+                Политика обработки ПДн
+              </a>
               <Link href="/privacy" className="hover:text-white transition-colors">
                 Политика конфиденциальности
               </Link>
