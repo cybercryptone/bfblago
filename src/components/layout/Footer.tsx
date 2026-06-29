@@ -107,6 +107,9 @@ export default function Footer() {
               <Link href="/terms" className="hover:text-white transition-colors">
                 Пользовательское соглашение
               </Link>
+              <a href="/ustav.pdf" target="_blank" rel="noopener noreferrer" className="hover:text-white transition-colors">
+                Устав фонда
+              </a>
             </div>
           </div>
         </div>
